@@ -2,21 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-20T11:08:41.732626Z",
+      "created": "2022-03-25T06:07:37.473846Z",
       "format": null,
-      "last_modified": "2022-03-20T11:07:22.493634Z",
+      "last_modified": "2022-03-25T06:06:19.837013Z",
       "mimetype": null,
       "name": "INTRO-Sympy.ipynb",
       "path": "INTRO-Sympy.ipynb",
-      "size": 21280,
+      "size": 12482,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-03-20T11:08:41.736626Z",
+      "created": "2022-03-25T06:07:37.473846Z",
       "format": null,
-      "last_modified": "2022-03-20T11:07:22.493634Z",
+      "last_modified": "2022-03-25T06:06:19.841013Z",
       "mimetype": null,
       "name": "python.ipynb",
       "path": "python.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T11:08:41.736626Z",
+      "created": "2022-03-25T06:07:37.473846Z",
       "format": null,
-      "last_modified": "2022-03-20T11:08:41.736626Z",
+      "last_modified": "2022-03-25T06:07:37.473846Z",
       "mimetype": null,
       "name": "pyolite",
       "path": "pyolite",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T11:08:41.732626Z",
+      "created": "2022-03-25T06:07:37.473846Z",
       "format": null,
-      "last_modified": "2022-03-20T11:08:38.996524Z",
+      "last_modified": "2022-03-25T06:07:35.577828Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-20T11:08:41.736626Z",
+  "created": "2022-03-25T06:07:37.473846Z",
   "format": "json",
-  "last_modified": "2022-03-20T11:08:41.736626Z",
+  "last_modified": "2022-03-25T06:07:37.473846Z",
   "mimetype": null,
   "name": "",
   "path": "",
