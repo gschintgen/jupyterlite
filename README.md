@@ -1,12 +1,15 @@
-# JupyterLite Demo
+# Sympy (based on JupyterLive)
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+This JupyterLive demo site has been slightly customised by me to incorporate a few Sympy notebooks (in French) for testing and teaching purposes.
+
+(This repository might be deleted or recreated from scratch at any time...)
+
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://gschintgen.github.io/jupyterlite/**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
